@@ -13,9 +13,10 @@ header{
 }
 .corpo{
 	margin: 0 auto;
+	padding: 0px 0px;
 	background-color: #EEE;
 	height: auto;
-	width: 938px;
+	width: 950px;
 }
 .img{
 	padding: 20px 20px;
@@ -25,7 +26,52 @@ header{
 	padding: 40px 40px;
 }
 .p{
-	font-size: 20px;
+	font-size: 30px;
 	line-height: 0px;
 }
+.p1{
+	font-size: 35px;
+	line-height: 0px;
+	padding: 20px 20px;
 
+}
+.btn{
+	line-height: 0;
+	padding: 10px 10px;
+	font-size: 26px;
+	top: -165px;
+	right: -650px;
+	position: relative;
+}
+.btn1{
+	cursor: pointer;
+	position: relative;
+	top: 10px;
+}
+.btn2{
+	cursor: pointer;
+	position: relative;
+	top: 10px;
+}
+.btn3{
+	cursor: pointer;
+	position: relative;
+	top: 10px;
+}
+.shadow{
+	position: relative;
+	top: 50px;
+	left: -300px;
+	width: 340px
+}
+.teste{
+	width: 285px;
+	height: 222px;
+	border-radius: 5px;
+}
+.botao{
+	cursor: pointer;
+	position: relative;
+	top: -215px;
+	left: 108px;
+}
