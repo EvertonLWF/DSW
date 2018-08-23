@@ -75,3 +75,22 @@ header{
 	top: -215px;
 	left: 108px;
 }
+
+.select{
+	height: 100px;
+	width: 100px;
+}
+.search{
+	position: relative;
+	left: 500px;
+	top: -20px;
+	width: 272px;
+	height: 28px;
+	border-radius: 5px;
+}
+.busca{
+	position: relative;
+	height: 20px;
+	left: 470px;
+	top: -15px;
+}
